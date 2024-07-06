@@ -1,0 +1,215 @@
+#icon{
+  display: flex;
+  position:relative;
+  top: 30px;
+  left: 200px;
+  color: white;
+}
+#head{
+  display: flex;
+  gap: 70px;
+  padding: 10px;
+position: relative;
+left: 300px;
+color: white;
+}
+a{
+  color: whitesmoke;
+}
+a:hover{
+  color:yellow
+}
+#top{
+  background-color: black;
+  padding-right: 0px;
+
+}
+#big{
+  color: white;
+  text-align:center ;
+  font-family: 'Times New Roman', Times, serif;
+}
+#big1{
+  font-weight: 1200;
+  font-size: -50%;
+}
+#big2{
+  font-weight: 700;
+  
+}
+#head1{
+  position:relative;
+  left:550px;
+  
+}
+#big3{
+  margin-top: 100px;
+  margin-left: 125px;
+}
+
+#content{
+  display: flex;
+ position: relative;
+ top: -780px;
+ left:600px;
+ color: whitesmoke;
+}
+#content2{
+  position: relative;
+  top: -800px;
+ left:650px;
+ color: whitesmoke;
+}
+#content3{
+  position: relative;
+  top: -795px;
+ left:520px;
+ color: whitesmoke;
+}
+
+#head0{
+  position: relative;
+  bottom:80px;
+  padding-bottom: 50px;
+  background-color: lavender;
+  width: 50%;
+  top: -190px
+  
+}
+#parent0{
+  display: flex;
+  
+}
+#parent0{
+  padding-left: 240px;
+}
+#parent1{
+padding-left: 270px;
+
+}
+#parent2{
+  padding-left: 220px;
+}
+#top1{
+position: relative;
+left:260px;
+}
+#top2{
+  position: relative;
+  left:275px;
+}
+#top3{
+  position: relative;
+  left:290px;
+}
+#head10{
+  background-color: beige;
+  width:50%;
+  position: relative;
+  top: -200px;
+
+
+}
+#img0{
+  position: relative;
+  right: 260px;
+  
+}
+#img2{
+  width: 50%;
+  position: relative;
+  left: 730px;
+  bottom:1235px;
+  background-color: aliceblue;
+  
+}
+#qqq{
+  position: relative;
+  left: 230px;
+ top:150px;
+ font-size:x-large;
+
+}
+#ipad{
+  width: 50%;
+  background-color: cornsilk;
+  position:relative;
+  bottom: 1250px;
+  left:2px
+  
+}
+#ipadimg{
+  position: relative;
+  left:180px;
+}
+#log00{
+  position: relative;
+  left: 180px;
+}
+#h123{
+margin-left: 120px;
+}
+#pods{
+  background-color: black;
+  position:relative;
+  bottom: 1780px;
+  left: 730px;
+  width: 50%;
+}
+#img000{
+  position:relative;
+  left: 170px;
+}
+#h1234{
+ color:ghostwhite;
+ position: relative;
+ left:190px;
+ 
+}
+#hii{
+  margin-left: 80px;
+}
+#para{
+  position: relative;
+  bottom:1750px;
+}
+#hr{
+  position: relative;
+  top:-1730px;
+}
+body{
+  overflow-x: hidden;
+  overflow-y:visible;
+}
+#col1{
+position:relative;
+bottom:1730px;
+left: 30px;
+}
+#para00{
+  margin-left: 20px;
+}
+#para001{
+  margin-left: 20px;
+}
+#col3{
+  position: relative;
+  left:300px;
+  bottom:2215px;
+}
+#col4{
+  position:relative;
+  bottom: 2665px;
+  left:600px;
+}
+#col5{
+  position: relative;
+  bottom:3010px;
+  left:900px
+
+}
+#col6{
+  position: relative;
+  bottom:3425px;
+  left:1200px;
+}
